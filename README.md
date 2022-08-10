@@ -2,6 +2,9 @@
 
 ![image7](https://user-images.githubusercontent.com/74312830/182284925-9ca06ca3-3f94-43bc-a3e5-ee937dec7bb7.png)
 <br> Fig 1. Diagram of our Deep Q-Learning Network
+<br>
+# AI in action
+![Using_Deep_Q-learning_Networks_in_Tetris-preview](https://user-images.githubusercontent.com/74312830/183943621-56ad788b-257e-4f38-abfa-31a3115b3089.gif)
 
 # Introduction
 ## Project Idea
